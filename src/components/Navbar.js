@@ -1,6 +1,6 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import '../index.css';
+import '../zipNavbar.css';
 import logo from "../zipcode-logo.jpg";
 
 export default function Navbar(){
