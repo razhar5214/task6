@@ -1,7 +1,8 @@
 .app--navbar{
     display:flex;
     background-color: rgb(7, 21, 148); 
-    padding: 30px 10px 10px 30px;
+    padding: 30px 10px 10px 10px;
+    height: 80px;
   }
   .app--name{
     color: white;
@@ -11,12 +12,14 @@
   .team--names{
     position: fixed;
     right:0;
-    padding-right: 15px;
+    padding-top: 20px;
+    padding-right: 30px;
     color: white;
   }
   .app--logo{
     width:100px;
   }
   body{
+    margin:0;
     background-color: rgb(160, 212, 216);
   }
